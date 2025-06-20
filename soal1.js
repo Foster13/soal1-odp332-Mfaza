@@ -1,7 +1,7 @@
 // Jumlahkan semua angka genap dalam array berikut
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 let resultOne
-
+//coba
 
 const numbersTwo = [1, 2, 3, 4, 5, 6, 7, 8];
 //Tambahkan semua angka ganjil dalam array dan kembalikan hasilnya.
